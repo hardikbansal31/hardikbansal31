@@ -76,7 +76,7 @@ I am a Computer Engineering student at **TCET, Mumbai** (Batch of 2027) with a p
 * **LinkedIn:** [Your LinkedIn URL Here]
 * **Portfolio:** [Your Portfolio URL Here]
 
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikbansal31&show_icons=true&theme=radical)
     2023 : Started B.E. Computer Engineering at TCET
          : Built foundational skills in Java and JavaScript
          : Achieved 9.38 CGPA in first year
