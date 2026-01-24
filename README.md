@@ -73,8 +73,6 @@ I am a Computer Engineering student at **TCET, Mumbai** (Batch of 2027) with a p
 ### 📫 Connect with Me
 
 * **Email:** bansalhardik31@gmail.com
-* **LinkedIn:** [Your LinkedIn URL Here]
-* **Portfolio:** [Your Portfolio URL Here]
 
 ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikbansal31&show_icons=true&theme=radical)
     2023 : Started B.E. Computer Engineering at TCET
