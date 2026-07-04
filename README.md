@@ -1,87 +1,57 @@
-<!-- 
-██╗  ██╗ █████╗ ██████╗ ██████╗ ██╗██╗  ██╗    ██████╗  █████╗ ███╗   ██╗███████╗ █████╗ ██╗     
-██║  ██║██╔══██╗██╔══██╗██╔══██╗██║██║ ██╔╝    ██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔══██╗██║     
-███████║███████║██████╔╝██║  ██║██║█████╔╝     ██████╔╝███████║██╔██╗ ██║███████╗███████║██║     
-██╔══██║██╔══██║██╔══██╗██║  ██║██║██╔═██╗     ██╔══██╗██╔══██║██║╚██╗██║╚════██║██╔══██║██║     
-██║  ██║██║  ██║██║  ██║██████╔╝██║██║  ██╗    ██████╔╝██║  ██║██║ ╚████║███████║██║  ██║███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝
--->
-# Hi there, I'm Hardik Bansal! 👋
+<h1 align="center">Hi, I'm Hardik 👋</h1>
 
-> **Backend Developer | Java & Node.js Enthusiast | Open Source Contributor**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;ML+%2F+AI+enthusiast" alt="Typing SVG" />
+</p>
 
-I am a Computer Engineering student at **TCET, Mumbai** (Batch of 2027) with a passion for building scalable web applications and solving real-world problems through backend engineering. Currently, I am streamlining operations as an **AI & Full Stack Developer Intern** at **F1Jobs.io**.
+<p align="center">
+  I'm a Computer Engineering student building production-grade backend systems and full-stack applications — from distributed ledger engines to AI-driven survey pipelines.
+</p>
 
----
-
-### 🛠️ Tech Stack
-
-* **Languages:** Java, JavaScript, Python
-* **Backend:** Node.js, Express, Spring Boot
-* **Frontend:** React.js, Next.js, HTML/CSS, Tailwind CSS
-* **Databases:** MySQL, MongoDB, Prisma, Hibernate
-* **DevOps & Tools:** Docker, Git/GitHub, Postman, FFmpeg, n8n
+<p align="center">
+  <a href="https://hardik31.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hardik31.vercel.app-2E9EF7?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/hardikbansal31"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bansalhardik31@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🔭 Featured Projects
+### 🔭 Currently building
 
-#### 🎥 **Video Compression & Streaming Platform**
-*A scalable platform for efficient video processing.*
-* **Tech:** Node.js, Express, FFmpeg, React, MySQL, Docker
-* **Key Features:**
-    * Achieved **65% file size reduction** using VP9+Opus codecs.
-    * Implemented adaptive streaming with multi-resolution generation (720p, 480p, 360p).
-    * Built secure REST APIs supporting Range requests for smooth playback.
+- **Banking Core & Ledger** — a double-entry accounting engine in Spring Boot with atomic ledger writes, distributed locking (Redisson), and a NAT-less AWS deployment (ECS Fargate, RDS, ElastiCache, CloudFront)
+- **Project NARAD** — an IVR-based survey pipeline (Node.js + Twilio + Sarvam) extending survey reach to users without smartphones or internet, built for Statathon 2025
 
-#### 🏙️ **Smart City Website**
-*A utility platform for urban navigation and analytics.*
-* **Tech:** MERN Stack (MongoDB, Express, React, Node.js)
-* **Key Features:**
-    * Integrated OpenStreetMap & OpenRoute Service for live routing and location tracking.
-    * Developed traffic analytics dashboard for major Mumbai junctions.
-    * Includes a companion Android application.
+### 🛠️ Tech I work with
 
-#### 🌐 **S.O.R.T Club Website**
-* **Role:** Technical Team Member
-* **Impact:** Rebuilt the official club website using **React.js**, improving load speed by **40%**.
-
----
-
-### 💼 Experience
-
-**AI & Full Stack Developer Intern | F1Jobs.io**
-* *Dec 2025 - Present*
-* Building workflow automations using **n8n** to streamline client operations.
-* Developing responsive portfolio websites and collaborating with cross-time-zone teams.
-
-**Technical Team Member (Vice Chairperson) | GeeksForGeeks Student Chapter (TCET)**
-* *Jan 2025 - June 2025*
-* Managed technical systems for contests and webinars, handling 400+ questions and 200+ participants.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-### 🏆 Achievements
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hardikbansal31&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikbansal31&layout=compact&hide_border=true" />
+</div>
 
-* **Gold Badge (5 Stars):** Java on HackerRank.
-* **Finalist:** J.P. Morgan Generation Tech Hackathon.
-* **Finalist:** IEEE TechSangam (MIT-ADT Pune).
-* **GPA:** 9.38 / 10.0
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikbansal31&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hardikbansal31&theme=flat&no-frame=true&column=6&margin-w=8" />
+</div>
 
 ---
 
-### 📫 Connect with Me
-
-* **Email:** bansalhardik31@gmail.com
-
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikbansal31&show_icons=true&theme=radical)
-    2023 : Started B.E. Computer Engineering at TCET
-         : Built foundational skills in Java and JavaScript
-         : Achieved 9.38 CGPA in first year
-    2024 : Joined S.O.R.T Club Technical Team
-         : Rebuilt club website with React.js
-         : Improved website load speed by 40 percent
-         : Developed Smart City Website with MERN stack
-    2025 : Joined GeeksForGeeks Student Chapter
-         : Built technical systems for 200+ participants
-         :
+<p align="center"><i>Open to interesting full-stack and backend engineering conversations — feel free to reach out.</i></p>
