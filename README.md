@@ -40,16 +40,7 @@
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hardikbansal31&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikbansal31&layout=compact&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikbansal31&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hardikbansal31&theme=flat&no-frame=true&column=6&margin-w=8" />
+  <img src="./metrics.svg" alt="GitHub metrics" />
 </div>
 
 ---
